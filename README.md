@@ -9,7 +9,6 @@
     <img src="https://komarev.com/ghpvc/?username=prateekyadav17&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
   <a href="https://github.com/prateekyadav17?tab=followers">
-    <img src="https://img.shields.io/github/followers/prateekyadav17?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers"/>
   </a>
 </p>
 
