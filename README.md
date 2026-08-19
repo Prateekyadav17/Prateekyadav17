@@ -235,7 +235,9 @@ Generate dynamic and trackable QR codes while gaining insights into scan activit
 <code>Tracking</code>
 <code>Analytics</code>
 </p>
-
+<a href="https://scanzy-web.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-0e75b6?style=for-the-badge" alt="FundHappiness Live Demo"/>
+</a>
 </td>
 
 </tr>
