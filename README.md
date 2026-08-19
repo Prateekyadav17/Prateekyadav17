@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prateek Yadav</h1>
 
 <h3 align="center">
-💻 Web Developer from India | Building Modern Web Experiences 🚀
+  💻 Web Developer from India | Building Modern Web Experiences 🚀
 </h3>
 
 <p align="center">
@@ -317,7 +317,7 @@ I'm continuously building new projects and experimenting with modern web technol
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prateekyadav17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=prateekyadav17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7&v=1" width="100%" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -326,7 +326,7 @@ I'm continuously building new projects and experimenting with modern web technol
 
 <p align="center">
 
-<img src="https://img.shields.io/github/repos/prateekyadav17?style=for-the-badge&logo=github&label=TOTAL%20REPOSITORIES" alt="Total Repositories"/>
+<img src="https://img.shields.io/badge/TOTAL%20REPOSITORIES-7-0e75b6?style=for-the-badge&logo=github" alt="Total Repositories"/>
 
 <img src="https://img.shields.io/github/stars/prateekyadav17?style=for-the-badge&logo=github&label=TOTAL%20STARS" alt="Total Stars"/>
 
