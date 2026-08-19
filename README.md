@@ -289,22 +289,22 @@ I'm continuously building new projects and experimenting with modern web technol
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prateekyadav17&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateekyadav17&theme=tokyonight&hide_border=true&border_radius=12" width="49%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prateekyadav17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="Prateek's GitHub Stats"/>
+
+  <img src="https://streak-stats.demolab.com?user=prateekyadav17&theme=tokyonight&hide_border=true" width="49%" alt="Prateek's GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekyadav17&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=12" width="42%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekyadav17&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="42%" alt="Top Languages"/>
 </p>
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prateekyadav17&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prateekyadav17&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
 </p>
-
 ---
 
 # 🐍 Contribution Snake
