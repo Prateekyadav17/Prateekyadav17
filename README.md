@@ -1,3 +1,4 @@
+<img src="https://img.shields.io/badge/TOTAL%20REPOSITORIES-7-0e75b6?style=for-the-badge&logo=github" alt="Total Repositories"/>
 <h1 align="center">Hi 👋, I'm Prateek Yadav</h1>
 
 <h3 align="center">
