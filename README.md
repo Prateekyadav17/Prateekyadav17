@@ -316,9 +316,11 @@ I'm continuously building new projects and experimenting with modern web technol
 
 # 🏆 GitHub Trophies
 
+<!-- Temporarily hidden because the Vercel server is paused
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prateekyadav17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7&v=1" width="100%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=prateekyadav17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%" alt="GitHub Trophies"/>
 </p>
+-->
 
 ---
 
