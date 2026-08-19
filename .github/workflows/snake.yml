@@ -14,7 +14,6 @@ jobs:
       
       - uses: Platane/snk@v3
         with:
-          # Your exact GitHub username
           github_user_name: prateekyadav17
           outputs: |
             dist/github-contribution-grid-snake.svg
@@ -23,7 +22,6 @@ jobs:
           
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          # This pushes the generated svg to the "output" branch exactly as written in your README
           target_branch: output
           build_dir: dist
         env:
