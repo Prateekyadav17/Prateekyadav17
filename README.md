@@ -17,7 +17,7 @@
   <a href="https://github.com/prateekyadav17?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github" alt="GitHub Repositories"/>
   </a>
-  <a href="http://prateek-yadav17.netlify.app/" target="_blank>
+  <a href="http://prateek-yadav17.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
