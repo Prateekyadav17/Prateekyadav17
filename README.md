@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prateekyadav17" alt="prateekyadav17" /></a> </p>
 
-- 🔭 I’m currently working on **🔭 Building and improving web projects using React, JavaScript, PHP, and modern web technologies**
+- 🔭 I’m currently working on **Building and improving web projects using React, JavaScript, PHP, and modern web technologies**
 
-- 🌱 I’m currently learning **🌱 Currently learning and improving my skills in MERN Stack, Backend Development, APIs, and DSA**
+- 🌱 I’m currently learning **and improving my skills in MERN Stack, Backend Development, APIs, and DSA**
 
-- 👯 I’m looking to collaborate on **👯 Open to collaborating on web development and open-source projects**
+- 👯 I’m looking to collaborate on **web development and open-source projects**
 
 - 👨‍💻 All of my projects are available at [http://prateek-yadav17.netlify.app/](http://prateek-yadav17.netlify.app/)
 
-- 💬 Ask me about **💬 Ask me about HTML, CSS, JavaScript, React, PHP, MySQL, and responsive web development**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, PHP, MySQL, and responsive web development**
 
 - 📫 How to reach me **prateek82250@gmail.com**
 
@@ -35,5 +35,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prateekyadav17&show_icons=true&locale=en&layout=compact" alt="prateekyadav17" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prateekyadav17&show_icons=true&locale=en" alt="prateekyadav17" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateekyadav17&" alt="prateekyadav17" /></p>
